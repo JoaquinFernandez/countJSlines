@@ -1,2 +1,2 @@
 # countJSlines
-It counts the js lines that are used in the top 100 visited pages
+Challenge for http://20js.challengepost.com/rules. Use of api-server 
